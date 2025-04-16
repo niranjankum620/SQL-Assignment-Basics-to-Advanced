@@ -1,4 +1,3 @@
-# SQL-Assignment-Basics-to-Advanced
 
 # SQL-Assignment-Basics-to-Advanced
 
